@@ -6,31 +6,31 @@ A simple cafe ordering system with customer and staff interfaces. Customers can 
 
 ### 👤 Customer Interface
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
 
 #### 🛒 Cart
-<img src="./screenshots/cart.png" width="350px" height="auto">
+<img src="./screenshots/cart.png" width="100%">
 
 #### 💳 Checkout
-<img src="./screenshots/checkout.png" width="350px" height="auto">
+<img src="./screenshots/checkout.png" width="100%">
 
 #### ✨ Customize Order
-<img src="./screenshots/customize.png" width="350px" height="auto">
+<img src="./screenshots/customize.png" width="100%">
 
 #### 📋 Items List
-<img src="./screenshots/items.png" width="350px" height="auto">
+<img src="./screenshots/items.png" width="100%">
 
 #### 🔐 Login
-<img src="./screenshots/login.png" width="350px" height="auto">
+<img src="./screenshots/login.png" width="100%">
 
 </div>
 
 ### 👨‍💼 Staff Interface
 
-<div style="display: flex; justify-content: center;">
+<div style="display: grid; grid-template-columns: 1fr; gap: 20px;">
 
 #### 📊 Staff Dashboard
-<img src="./screenshots/staff.png" width="350px" height="auto">
+<img src="./screenshots/staff.png" width="100%">
 
 </div>
 
